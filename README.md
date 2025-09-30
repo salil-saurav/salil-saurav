@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=salil-saurav)
 ![GitHub followers](https://img.shields.io/github/followers/salil-saurav?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/salil-saurav?style=social)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=ko-fi&logoColor=white)](https://salilsaurav.free.nf/)
+
 
 ## About Me
 
