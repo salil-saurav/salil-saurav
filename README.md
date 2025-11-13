@@ -1,4 +1,4 @@
-# Hi 👋 I'm Salil Saurav
+# Hi 👋 I'm Salil
 
 ![](https://komarev.com/ghpvc/?username=salil-saurav)
 ![GitHub followers](https://img.shields.io/github/followers/salil-saurav?style=social)
