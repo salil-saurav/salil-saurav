@@ -9,19 +9,23 @@ jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v4
+            - name: Checkout repo
+              uses: actions/checkout@v4
 
-            - uses: Platane/snk@v3
+            - name: Generate snake SVG
+              uses: Platane/snk@v3
               with:
                   github_user_name: salil-saurav
                   outputs: |
                       github-snake.svg
                       github-snake-dark.svg?palette=github-dark
 
-            - name: Push to output branch
+            - name: Push snake to output branch
               uses: crazy-max/ghaction-github-pages@v4
               with:
                   target_branch: output
                   build_dir: .
+                  keep_history: false
+                  create_target_branch: true
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
