@@ -57,10 +57,8 @@ I am a **Full Stack Developer** specializing in building scalable web applicatio
 
 ## 📊 Github Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=salil-saurav&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salil-saurav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salil-saurav&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
-
 ---
 
 ### 🔗 Connect with me
