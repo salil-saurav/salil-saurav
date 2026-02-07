@@ -15,7 +15,7 @@ I am a **Full Stack Developer** specializing in building scalable web applicatio
 - 🌍 Based in **India**.
 - 🛠️ Specialized in **Custom Plugin Development** & **Headless WordPress**.
 - 🧠 Currently deep-diving into **Gutenberg Block Development (React)** and **WP-CLI automation**.
-- ✉️ Reach me at: [Your Email Address]
+- ✉️ Reach me at: [salilsaurav.work@gmail.com]
 
 ---
 
