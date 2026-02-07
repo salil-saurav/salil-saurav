@@ -10,48 +10,54 @@
 ---
 
 ## 🚀 About Me
-I am a **Full Stack Developer** specializing in building scalable web applications and high-performance WordPress ecosystems. My focus lies in **Advanced WordPress Development**, where I bridge the gap between complex PHP backends and modern JavaScript frontends.
+I am a **Full Stack Developer** specializing in high-performance WordPress ecosystems. I bridge the gap between complex **PHP backends** and modern **JavaScript frontends**. 
 
 - 🌍 Based in **India**.
-- 🛠️ Specialized in **Custom Plugin Development** & **Headless WordPress**.
-- 🧠 Currently deep-diving into **Gutenberg Block Development (React)** and **WP-CLI automation**.
-- ✉️ Reach me at: [salilsaurav.work@gmail.com]
+- 🛠️ Specialized in **Custom Plugin Architecture** & **Headless WordPress**.
+- 🧠 Currently mastering **Gutenberg Block Development (React)** and **WP-CLI automation**.
+- ✉️ Reach me at: [salilsaurav.work@gmail.com](mailto:salilsaurav.work@gmail.com)
 
 ---
 
-## 🔌 WordPress Expertise
-*Beyond just installing plugins, I architect solutions:*
+## 🔌 Advanced WordPress Engineering
+*I don't just build websites; I architect scalable CMS solutions.*
 
-* **Plugin Development:** Building modular, secure, and OOP-based plugins; Hooks (Actions/Filters) API, and Custom REST API endpoints.
-* **Theme Engineering:** Custom FSE (Full Site Editing) themes, Hybrid themes, and performance optimization (Core Web Vitals).
-* **Modern Stack:** Integrating **React.js** for Gutenberg blocks and **Tailwind CSS** for ultra-fast UI development.
-* **Headless WP:** Decoupling WordPress using **WPGraphQL** and **Next.js/React**.
-* **DevOps for WP:** Deployment workflows with **GitHub Actions**, **Composer**, and **WP-CLI**.
+* **Plugin Development:** Modular, OOP-based architecture, Custom Post Types (CPT), and secure Hook (Action/Filter) management.
+* **Theme Engineering:** Custom FSE (Full Site Editing) and Hybrid themes built for Core Web Vitals performance.
+* **Gutenberg & React:** Building custom blocks using the `@wordpress/scripts` package and React-based admin interfaces.
+* **Modern Workflows:** Deployment via **GitHub Actions**, dependency management with **Composer**, and local development with **Docker/LocalWP**.
+* **Data Architecture:** Expert in `WP_Query` optimization, Custom REST API Endpoints, and **WPGraphQL**.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Frontend & Design
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🖥️ Backend & WordPress Core
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=json&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🖥️ Backend & WordPress
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=json&logoColor=white)
+### 🌐 Frontend & Modern UI
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ DevOps & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WP-CLI](https://img.shields.io/badge/WP--CLI-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salil-saurav&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salil-saurav&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
