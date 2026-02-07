@@ -53,14 +53,6 @@ I am a **Full Stack Developer** specializing in high-performance WordPress ecosy
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salil-saurav&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salil-saurav&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🔗 Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salilsaurav.free.nf/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salil-saurav)
