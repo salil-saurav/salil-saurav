@@ -57,7 +57,7 @@ I am a **Full Stack Developer** specializing in building scalable web applicatio
 
 ### 🔗 Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salilsaurav.free.nf/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salil-saurav)
 
 ---
 *“Simplicity is the ultimate sophistication.” — Leonardo da Vinci*
