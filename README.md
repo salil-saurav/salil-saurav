@@ -58,16 +58,6 @@
     <img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" width="32" height="32" alt="Portfolio"/> 
   </a>
 </p>
-
----
-
-### GitHub Highlights
-
-[![GitHub Snake](https://raw.githubusercontent.com/salil-saurav/salil-saurav/refs/heads/output/github-snake-dark.svg)](https://github.com/salil-saurav)
-
-[![First Pull Request](https://img.shields.io/badge/First%20Pull%20Request-Merged-brightgreen)](https://github.com/salil-saurav?tab=achievements)  
-[![Rising Star](https://img.shields.io/badge/Rising%20Star-Achievement%20Unlocked-brightgreen)](https://github.com/salil-saurav?tab=achievements)  
-
 ---
 
 ### Thank You for visiting my profile! 🙏
