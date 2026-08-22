@@ -43,6 +43,7 @@ malware incident response on compromised sites.
 | **[send-to-ghl](https://github.com/salil-saurav/send-to-ghl)** | Forwards form submissions and leads into GoHighLevel pipelines via API/webhook, with failure logging |
 | **[build-your-box](https://github.com/salil-saurav/build-your-box)** | Custom "build your own box" product builder for WooCommerce |
 | **[taskmanager](https://github.com/salil-saurav/taskmanager)** | MERN task manager — Express REST API, Mongoose, JWT auth, server-side validation |
+| **[next-portfolio](https://github.com/salil-saurav/next-portfolio)** | Consultant site — Next.js App Router, TypeScript, Tailwind, Framer Motion; content in typed data modules *(in progress)* |
 
 ---
 
