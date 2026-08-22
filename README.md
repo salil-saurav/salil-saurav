@@ -1,5 +1,6 @@
 # Hi 👋, I'm Salil Saurav
-### Full Stack Developer | MERN Stack | AI-Assisted Development | WordPress Engineer
+
+### Full Stack Developer — Laravel · WordPress/WooCommerce · React · AI-assisted engineering
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=salil-saurav&label=Profile%20Views&color=0e75b6&style=flat" alt="salil-saurav" />
@@ -7,91 +8,59 @@
 <img src="https://img.shields.io/github/stars/salil-saurav?style=social" alt="stars" />
 </p>
 
----
+Backend-leaning full stack dev based in **India**. I build and maintain production
+**WooCommerce / WordPress** systems, **Laravel** backends, and **React/Next.js**
+frontends — plus the third-party API plumbing (shipping, accounting, CRM, payments)
+that keeps them running. Most of my day is real client sites in production, not demos.
 
-## 🚀 About Me
+I run an **AI-assisted workflow**: agentic CLIs and local models do the grunt passes,
+I stay the reviewer. Also into WordPress plugin architecture, performance work, and
+malware incident response on compromised sites.
 
-I am a **Full Stack Developer** who architects scalable web systems — from high-performance **WordPress ecosystems** and **MERN stack applications** to **AI-powered workflows** and tool integrations. I bridge complex PHP backends, Node.js APIs, and modern React frontends with a strong focus on clean architecture and production-grade engineering.
-
-- 🌍 Based in **India**
-- 🛠️ Specialized in **WordPress Plugin Architecture**, **MERN Stack APIs**, and **Headless/API-driven Applications**
-- 🤖 Deep into **AI-assisted development** — building with OpenAI, Claude, local LLMs (Ollama/Qwen), and agentic coding tools
-- 🧠 Currently exploring **LLM tool-calling**, **RAG pipelines**, and **AI workflow automation**
-- ✉️ Reach me at: [salilsaurav.work@gmail.com](mailto:salilsaurav.work@gmail.com)
-
----
-
-## 🔌 Advanced WordPress Engineering
-
-*I don't just build websites; I architect scalable CMS solutions.*
-
-- **Plugin Development:** Modular, OOP-based architecture, Custom Post Types (CPT), and secure Hook (Action/Filter) management
-- **Theme Engineering:** Custom FSE (Full Site Editing) and Hybrid themes built for Core Web Vitals performance
-- **Gutenberg & React:** Building custom blocks using `@wordpress/scripts` and React-based admin interfaces
-- **Modern Workflows:** Deployment via **GitHub Actions**, dependency management with **Composer**, local dev with **Docker/LocalWP**
-- **Data Architecture:** Expert in `WP_Query` optimization, Custom REST API Endpoints, and **WPGraphQL**
+📫 **[salilsaurav.work@gmail.com](mailto:salilsaurav.work@gmail.com)**
 
 ---
 
-## ⚡ MERN Stack Development
+## 🧰 Stack
 
-*Building scalable, full-stack JavaScript applications end-to-end.*
+**Backend** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- **Backend (Node.js + Express):** RESTful API design, middleware architecture, authentication (JWT/OAuth), webhook systems, and background job processing
-- **Database (MongoDB):** Schema design, aggregation pipelines, indexing strategies, and Mongoose ODM for production-grade data modeling
-- **Frontend (React.js):** Component-driven UIs, state management (Redux/Zustand/Context), and performance-optimized rendering
-- **Full-Stack Patterns:** Monorepo setups, API versioning, role-based access control, and real-time features with WebSockets
+**Frontend** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
----
+**AI** ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-## 🤖 AI-Assisted Development & LLM Integration
-
-*Leveraging AI not just as a tool, but as a core part of the engineering workflow.*
-
-- **AI Coding Workflows:** Daily use of **Cursor**, **Claude**, and **GitHub Copilot** for code generation, refactoring, debugging, and architecture decisions
-- **LLM API Integrations:** Building production features with **OpenAI API** (GPT-4, Embeddings, Assistants) and **Anthropic Claude API** — function calling, structured outputs, streaming responses
-- **Local AI Agents:** Running and fine-tuning models locally with **Ollama** and **Qwen** for privacy-sensitive workflows and cost-efficient automation
-- **RAG & Agentic Pipelines:** Implementing retrieval-augmented generation systems, tool-use agents, and multi-step LLM workflows for real-world applications
-- **AI Automation:** Automating repetitive dev tasks, documentation generation, test scaffolding, and code review flows using LLM-backed agents
+**Tooling** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) ![WP-CLI](https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📦 Projects
 
-### 🖥️ Backend & WordPress Core
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=json&logoColor=white)
-
-### 🌐 Frontend & Modern UI
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🤖 AI & LLM Tools
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-### ⚙️ DevOps & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![WP-CLI](https://img.shields.io/badge/WP--CLI-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+| Project | What it is |
+| --- | --- |
+| **[detail-king](https://github.com/salil-saurav/detail-king)** *(StackPress)* | Lightweight OOP WordPress theme boilerplate — PSR-4 autoloading, auto-discovered services, ships blank |
+| **[gosweetspot-rest-api](https://github.com/salil-saurav/gosweetspot-rest-api)** | WooCommerce ↔ GoSweetSpot shipping plugin: live rates, freight detection >25kg, cron label generation |
+| **[techr-plugins](https://github.com/salil-saurav/techr-plugins)** | WP performance + options suite — HTML minification, taxonomy images, featured posts, custom login |
+| **[send-to-ghl](https://github.com/salil-saurav/send-to-ghl)** | Forwards form submissions and leads into GoHighLevel pipelines via API/webhook, with failure logging |
+| **[build-your-box](https://github.com/salil-saurav/build-your-box)** | Custom "build your own box" product builder for WooCommerce |
+| **[taskmanager](https://github.com/salil-saurav/taskmanager)** | MERN task manager — Express REST API, Mongoose, JWT auth, server-side validation |
 
 ---
 
-### 🔗 Connect with me
+## 📊 GitHub
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salilsaurav.vercel.app/)
+<p align="left">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=salil-saurav&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salil-saurav&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="top languages" />
+</p>
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=salil-saurav&hide_border=true&theme=github-dark" alt="streak" />
+</p>
+
+---
+
+### 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salilsaurav.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salil-saurav)
 
 ---
